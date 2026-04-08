@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://menkthecollector.netlify.app/sitemap.xml
